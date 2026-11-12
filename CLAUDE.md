@@ -4,6 +4,11 @@ Web del restaurante **Limón y Sal** (pescados y mariscos, Villa El Salvador, Li
 Todo el sitio es un solo archivo: `index.html` (HTML + CSS + JavaScript, sin frameworks ni paso de compilación).
 Se publica en Netlify, conectado a este repositorio de GitHub: cada `git push` a la rama principal actualiza la web en 1–2 minutos.
 
+## Publicación
+- Repositorio GitHub: https://github.com/SebasCop57/limonysal (rama `main`)
+- Proyecto de Netlify: `limonysal-ves` (el nombre `limonysal` estaba ocupado)
+- Web pública: https://limonysal-ves.netlify.app
+
 ## Datos del negocio
 - Teléfono / WhatsApp de pedidos: 924 879 011 (en el código: `51924879011`)
 - Dirección: Calle Villa del Mar con Av. Revolución, Sector 2, Grupo 12, Mz. A, Lt. 09, Villa El Salvador, Lima
