@@ -6,8 +6,8 @@ Se publica en Netlify, conectado a este repositorio de GitHub: cada `git push` a
 
 ## Publicación
 - Repositorio GitHub: https://github.com/SebasCop57/limonysal (rama `main`)
-- Proyecto de Netlify: `limonysal-ves` (el nombre `limonysal` estaba ocupado)
-- Web pública: https://limonysal-ves.netlify.app
+- Proyecto de Netlify: `limonysalrestaurant`
+- Web pública: https://limonysalrestaurant.netlify.app
 
 ## Datos del negocio
 - Teléfono / WhatsApp de pedidos: 924 879 011 (en el código: `51924879011`)
